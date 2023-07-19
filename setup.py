@@ -8,13 +8,13 @@ with open('LICENSE') as f:
     license = f.read()
 
 setup(
-    name='sample',
+    name='AoTMinigame',
     version='0.1.0',
-    description='Sample package for Python-Guide.org',
+    description='Learning Project based on Attack on Titan',
     long_description=readme,
     author='Colby Riddle',
     author_email='colbyriddle@gmail.com',
-    url='https://github.com/kennethreitz/samplemod',
+    url='https://github.com/IAmzColbz/AoT-Minigame',
     license=license,
     packages=find_packages(exclude=('tests', 'docs'))
 )
